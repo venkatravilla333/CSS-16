@@ -1,0 +1,64 @@
+/* tag  */
+
+/* p{
+  color: red;
+} */
+
+/* class  */
+
+/* .mypara{
+  color: red;
+} */
+
+/* id  */
+
+/* #one{
+  color: red;
+} */
+
+/* #hello p{
+  color: red;
+} */
+
+/* #hello > p{
+  color: red;
+} */
+
+/* #hello + p{
+  color: red;
+} */
+ 
+ /* #hello ~ p{
+  color: red;
+}  */
+
+/* p:hover{
+  color: red;
+} */
+
+/* p::after{
+  color: red;
+  content: 'hello';
+} */
+
+/* *{
+  color: red;
+  background-color: aqua;
+} */
+
+ /* #one, .myclass{
+  color: red;
+} */
+
+/* [title='hi hello bye']{
+  color: red;
+} */
+/* [title^='hi']{
+  color: red;
+} */
+/* [title$='bye']{
+  color: red;
+} */
+/* [title*='bye']{
+  color: red;
+} */

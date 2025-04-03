@@ -1,0 +1,20 @@
+
+#myid{
+  color: brown;
+}
+
+div p{
+  color: orange;
+}
+
+.para{
+  color: blue;
+}
+
+p{
+  color: aqua;
+}
+
+*{
+  color: red !important;
+}
