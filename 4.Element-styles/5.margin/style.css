@@ -1,0 +1,35 @@
+/* body{
+  border: 2px solid red;
+  /* width: 500px; */
+/* } */ */
+
+#one{
+  border: 2px solid black;
+  padding: 40px;
+  width: 400px;
+  height: 210px;
+  /* margin: 100px; */
+  /* margin-left: 100px; */
+  /* margin: 100px 20px 50px; */
+  margin-bottom: -100px;
+}
+
+/* #two{
+   border: 2px solid black;
+  padding: 40px;
+  width: 400px;
+  height: 210px;
+  margin-top: 95px;
+} */
+
+#one{
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+}
+#two{
+  width: 200px;
+  height: 200px;
+  border: 2px solid rgb(255, 0, 0);
+  margin-top: -100px;
+}
