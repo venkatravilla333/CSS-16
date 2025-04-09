@@ -1,0 +1,28 @@
+
+.parent{
+  width: 800px;
+  height: 400px;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-evenly; */
+  align-items: stretch;
+}
+
+.ch1{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.ch2{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 34, 255);
+}
+.ch3{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(47, 255, 0);
+}
