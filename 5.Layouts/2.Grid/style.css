@@ -1,0 +1,23 @@
+
+
+/* columns  */
+
+.container-div{
+  width: 600px;
+  height: 300px;
+  border: 2px solid black;
+  margin: 100px auto;
+  display: grid;
+  /* grid-template-columns: 200px 200px 200px; */
+  /* grid-template-rows: 100px 100px 100px; */
+}
+
+.ch1{
+  background-color: red;
+}
+.ch2{
+  background-color: rgb(0, 255, 26);
+}
+.ch3{
+  background-color: rgb(0, 34, 255);
+}

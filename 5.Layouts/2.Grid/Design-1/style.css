@@ -1,0 +1,32 @@
+
+
+
+.container-div{
+  width: 600px;
+  height: 400px;
+  border: 2px solid black;
+  display: grid;
+  grid-template-columns: 150px 300px 150px;
+  grid-template-rows: 200px 200px;
+  /* grid-row-gap: 10px;
+  grid-column-gap: 10px; */
+}
+
+.ch1{
+  background-color: aqua;
+}
+.ch2{
+  background-color: rgb(174, 255, 0);
+}
+.ch3{
+  background-color: rgb(255, 0, 0);
+}
+.ch4{
+  background-color: rgb(4, 0, 255);
+}
+.ch5{
+  background-color: rgb(255, 183, 0);
+}
+.ch6{
+  background-color: rgb(0, 255, 30);
+}
