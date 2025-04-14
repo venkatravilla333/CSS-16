@@ -1,0 +1,77 @@
+
+*{
+  box-sizing: border-box;
+  font-size: 18px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.container-div{
+  width: 40%;
+  min-height: 450px;
+  /* background-color: aqua; */
+  margin: 20px auto;
+}
+
+.logo-div{
+  width: 100%;
+  background-color: rgb(209, 209, 206);
+  min-height: 40px;
+  line-height: 40px;
+  padding-left: 20px;
+  margin-bottom: 8px;
+}
+.nav-div{
+  width: 100%;
+   background-color: rgb(209, 209, 206);
+  min-height: 30px;
+  line-height: 30px;
+  text-align: center;
+  margin-bottom: 8px;
+}
+.banner-div{
+  width: 100%;
+  background-color: rgb(209, 209, 206);
+  min-height: 80px;
+  line-height: 80px;
+  text-align: center;
+  margin-bottom: 8px;
+  
+}
+
+.main-div{
+  width: 100%;
+  /* background-color: greenyellow; */
+  margin-bottom: 8px;
+}
+
+.side-div{
+  float: left;
+  width: 29%;
+   background-color: rgb(209, 209, 206);
+  min-height: 260px;
+  text-align: center;
+  line-height: 260px ;
+}
+.area-div{
+  float: right;
+  width: 68%;
+    background-color: rgb(209, 209, 206);
+  min-height: 260px;
+  text-align: center;
+  line-height: 260px;
+}
+
+.clear-fix::after{
+  content: "";
+  display: block;
+  clear: both;
+}
+.footer-div{
+  width: 100%;
+  min-height: 30px;
+    background-color: rgb(209, 209, 206);
+  text-align: center;
+  line-height: 30px;
+ 
+}
